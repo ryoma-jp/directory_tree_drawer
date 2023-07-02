@@ -1,0 +1,11 @@
+@startuml
+folder "." {
+[LICENSE]
+[README.md]
+[directory_tree_drawer.py]
+folder "sample" {
+[plantuml_sample.png]
+[plantuml_sample.pu]
+}
+}
+@enduml
